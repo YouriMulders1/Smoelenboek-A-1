@@ -4,54 +4,146 @@
       "id": "youri",
       "name": "Youri Mulders",
       "age": 17,
+      "birthday": "12-09-2006",
       "role": "Software Developer Student",
       "email": "youri.mulders@student.gildeopleidingen.nl",
       "phone": "+31642191199",
       "office": "Office 3.1.15",
-      "image": "https://cdn.discordapp.com/attachments/1174001183726530681/1321435437502324807/th.jpg?ex=676d5e0b&is=676c0c8b&hm=e85fe03f8c0a1b1a1f9c71d9c1a59c2e6e8bf5e13c3f1d5e3e3f1d5e3e3f1d5e&",
-      "bio": "Passionate about coding and technology. Currently studying software development at Gilde Opleidingen.",
-      "hobbies": ["Coding", "Gaming", "Technology"],
-      "theme": "blue"
+      "location": "Velden",
+      "work": "Veerpond Velden-Grubbenvorst",
+      "officeNumber": "146155",
+      "pitch": "Ik zal hard werken om altijd een goed resultaat te leveren.",
+      "image": "https://cdn.discordapp.com/attachments/1175825401029857350/1177165159840624712/lasvegas.JPG?ex=6571837c&is=655f0e7c&hm=b19e7cbf3a95ca1847d861f25ee083f2e5eed3f965df56f3012445281e0fa2d7&",
+      "coverImage": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=400&fit=crop",
+      "bio": "Passionate about coding and technology. Currently studying software development at Gilde Opleidingen. Hard worker dedicated to delivering excellent results.",
+      "hobbies": ["Coding", "Gaming", "Technology", "Web Development"],
+      "skills": ["JavaScript", "HTML/CSS", "Python", "React", "Node.js"],
+      "projects": [
+        {
+          "name": "Portfolio Website",
+          "description": "Personal portfolio showcasing my projects",
+          "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=300&fit=crop"
+        },
+        {
+          "name": "Web Application",
+          "description": "Dynamic web app with modern features",
+          "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=400&h=300&fit=crop"
+        }
+      ],
+      "social": {
+        "github": "#",
+        "linkedin": "#",
+        "twitter": "#"
+      },
+      "theme": "blue",
+      "favoriteQuote": "Code is poetry in motion"
     },
     {
       "id": "semi",
-      "name": "Semi",
+      "name": "Semi Berk",
+      "age": 18,
+      "birthday": "30-11-2006",
       "role": "Creative Developer",
       "email": "semi@student.gildeopleidingen.nl",
       "phone": "+31612345678",
       "location": "Roermond",
-      "image": "https://cdn.discordapp.com/attachments/1174001183726530681/1321435437502324807/th.jpg?ex=676d5e0b&is=676c0c8b&hm=e85fe03f8c0a1b1a1f9c71d9c1a59c2e6e8bf5e13c3f1d5e3e3f1d5e3e3f1d5e&",
-      "bio": "Creative developer with a passion for design and interactive experiences.",
-      "hobbies": ["Design", "Music", "Photography"],
+      "image": "https://cdn.discordapp.com/attachments/1175825401029857350/1177166282529984542/fenerbahce.jpeg?ex=65718488&is=655f0f88&hm=6d3ca74f3d8f61a5a10d12b92955e04b788766cf8595532b47f05bd457759bfb&",
+      "coverImage": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&h=400&fit=crop",
+      "bio": "Creative developer with a passion for design and interactive experiences. Football enthusiast and Fenerbahçe supporter.",
+      "hobbies": ["Design", "Music", "Photography", "Football", "Fenerbahçe"],
+      "skills": ["UI/UX Design", "CSS Animations", "JavaScript", "Adobe Creative Suite", "Figma"],
+      "projects": [
+        {
+          "name": "Interactive Gallery",
+          "description": "Beautiful image gallery with hover effects",
+          "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=400&h=300&fit=crop"
+        },
+        {
+          "name": "Design System",
+          "description": "Comprehensive design system for web apps",
+          "image": "https://images.unsplash.com/photo-1545235617-7a424c1a60cc?w=400&h=300&fit=crop"
+        }
+      ],
+      "social": {
+        "github": "#",
+        "linkedin": "#",
+        "instagram": "#"
+      },
       "work": "Student at Gilde Opleidingen",
-      "theme": "green"
+      "theme": "green",
+      "favoriteQuote": "Design is not just what it looks like, design is how it works"
     },
     {
       "id": "rohan",
-      "name": "Rohan",
-      "role": "Backend Developer",
-      "email": "rohan@student.gildeopleidingen.nl",
-      "phone": "+31687654321",
-      "image": "https://cdn.discordapp.com/attachments/1174001183726530681/1321435437502324807/th.jpg?ex=676d5e0b&is=676c0c8b&hm=e85fe03f8c0a1b1a1f9c71d9c1a59c2e6e8bf5e13c3f1d5e3e3f1d5e3e3f1d5e&",
-      "bio": "Backend specialist focusing on server-side development and databases.",
-      "hobbies": ["Programming", "Sports", "Reading"],
-      "theme": "dark"
+      "name": "Rohan Bohnen",
+      "age": 16,
+      "birthday": "29-08-2007",
+      "role": "Backend Developer & Nature Enthusiast",
+      "email": "rohan.bohnen@student.gildeopleidingen.nl",
+      "phone": "+31629207067",
+      "image": "https://media.discordapp.net/attachments/825853549057015819/1141437395443667057/IMG_20230816_202356.jpg?width=450&height=600",
+      "coverImage": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200&h=400&fit=crop",
+      "bio": "Backend specialist focusing on server-side development. Nature lover who enjoys the outside world, winter, and dreams of living in Norway. Guitar player and Australian Shepherd owner.",
+      "hobbies": ["Programming", "Guitar Playing", "Nature & Hiking", "Winter Activities", "Style & Fashion"],
+      "skills": ["Python", "Node.js", "Database Design", "API Development", "Linux"],
+      "projects": [
+        {
+          "name": "REST API Server",
+          "description": "Scalable backend API with authentication",
+          "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400&h=300&fit=crop"
+        },
+        {
+          "name": "Database System",
+          "description": "Efficient database architecture and optimization",
+          "image": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=400&h=300&fit=crop"
+        }
+      ],
+      "social": {
+        "github": "#",
+        "linkedin": "#"
+      },
+      "interests": ["Norwegian culture", "Woods & Forest", "Music", "Australian Shepherds"],
+      "theme": "dark",
+      "favoriteQuote": "The woods are peaceful, if I could I'd live there"
     },
     {
       "id": "nicky",
-      "name": "Nicky",
+      "name": "Nicky Kradolfer",
       "role": "Full Stack Developer",
       "email": "nicky@student.gildeopleidingen.nl",
       "phone": "+31698765432",
-      "image": "https://cdn.discordapp.com/attachments/1174001183726530681/1321435437502324807/th.jpg?ex=676d5e0b&is=676c0c8b&hm=e85fe03f8c0a1b1a1f9c71d9c1a59c2e6e8bf5e13c3f1d5e3e3f1d5e3e3f1d5e&",
-      "bio": "Full stack developer with experience in both frontend and backend technologies.",
-      "hobbies": ["Web Development", "Animation", "UI/UX"],
-      "theme": "purple"
+      "image": "https://cdn.discordapp.com/attachments/1175825401029857350/1177166332576419840/Me.jpg?ex=65718494&is=655f0f94&hm=c4ebf68663dedcd59500618f3d69b21be61f8b2e6338ba26f3dcbb77cf104c85&",
+      "coverImage": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=400&fit=crop",
+      "bio": "Full stack developer with experience in both frontend and backend technologies. Passionate about creating seamless user experiences.",
+      "hobbies": ["Web Development", "Animation", "UI/UX", "Problem Solving"],
+      "skills": ["React", "Vue.js", "Node.js", "MongoDB", "Express", "TypeScript"],
+      "projects": [
+        {
+          "name": "E-commerce Platform",
+          "description": "Full-stack online shopping platform",
+          "image": "https://images.unsplash.com/photo-1557821552-17105176677c?w=400&h=300&fit=crop"
+        },
+        {
+          "name": "Social Media App",
+          "description": "Real-time social networking application",
+          "image": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=400&h=300&fit=crop"
+        }
+      ],
+      "social": {
+        "github": "#",
+        "linkedin": "#",
+        "portfolio": "#"
+      },
+      "theme": "purple",
+      "favoriteQuote": "Full stack means full dedication"
     }
   ],
   "settings": {
     "title": "Smoelenboek - Gilde Opleidingen",
-    "subtitle": "Software Development Students Portfolio",
-    "year": "2024-2025"
+    "subtitle": "Software Development Students Portfolio 2024-2025",
+    "year": "2024-2025",
+    "school": "Gilde Opleidingen",
+    "course": "Software Development",
+    "description": "Showcase of talented software development students from Gilde Opleidingen"
   }
 }
