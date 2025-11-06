@@ -1,0 +1,57 @@
+{
+  "profiles": [
+    {
+      "id": "youri",
+      "name": "Youri Mulders",
+      "age": 17,
+      "role": "Software Developer Student",
+      "email": "youri.mulders@student.gildeopleidingen.nl",
+      "phone": "+31642191199",
+      "office": "Office 3.1.15",
+      "image": "https://cdn.discordapp.com/attachments/1174001183726530681/1321435437502324807/th.jpg?ex=676d5e0b&is=676c0c8b&hm=e85fe03f8c0a1b1a1f9c71d9c1a59c2e6e8bf5e13c3f1d5e3e3f1d5e3e3f1d5e&",
+      "bio": "Passionate about coding and technology. Currently studying software development at Gilde Opleidingen.",
+      "hobbies": ["Coding", "Gaming", "Technology"],
+      "theme": "blue"
+    },
+    {
+      "id": "semi",
+      "name": "Semi",
+      "role": "Creative Developer",
+      "email": "semi@student.gildeopleidingen.nl",
+      "phone": "+31612345678",
+      "location": "Roermond",
+      "image": "https://cdn.discordapp.com/attachments/1174001183726530681/1321435437502324807/th.jpg?ex=676d5e0b&is=676c0c8b&hm=e85fe03f8c0a1b1a1f9c71d9c1a59c2e6e8bf5e13c3f1d5e3e3f1d5e3e3f1d5e&",
+      "bio": "Creative developer with a passion for design and interactive experiences.",
+      "hobbies": ["Design", "Music", "Photography"],
+      "work": "Student at Gilde Opleidingen",
+      "theme": "green"
+    },
+    {
+      "id": "rohan",
+      "name": "Rohan",
+      "role": "Backend Developer",
+      "email": "rohan@student.gildeopleidingen.nl",
+      "phone": "+31687654321",
+      "image": "https://cdn.discordapp.com/attachments/1174001183726530681/1321435437502324807/th.jpg?ex=676d5e0b&is=676c0c8b&hm=e85fe03f8c0a1b1a1f9c71d9c1a59c2e6e8bf5e13c3f1d5e3e3f1d5e3e3f1d5e&",
+      "bio": "Backend specialist focusing on server-side development and databases.",
+      "hobbies": ["Programming", "Sports", "Reading"],
+      "theme": "dark"
+    },
+    {
+      "id": "nicky",
+      "name": "Nicky",
+      "role": "Full Stack Developer",
+      "email": "nicky@student.gildeopleidingen.nl",
+      "phone": "+31698765432",
+      "image": "https://cdn.discordapp.com/attachments/1174001183726530681/1321435437502324807/th.jpg?ex=676d5e0b&is=676c0c8b&hm=e85fe03f8c0a1b1a1f9c71d9c1a59c2e6e8bf5e13c3f1d5e3e3f1d5e3e3f1d5e&",
+      "bio": "Full stack developer with experience in both frontend and backend technologies.",
+      "hobbies": ["Web Development", "Animation", "UI/UX"],
+      "theme": "purple"
+    }
+  ],
+  "settings": {
+    "title": "Smoelenboek - Gilde Opleidingen",
+    "subtitle": "Software Development Students Portfolio",
+    "year": "2024-2025"
+  }
+}
